@@ -1,1 +1,5 @@
 rumbo al release 2
+
+Modificacion local, voy a subirlo a github
+
+Ultima modificacion para el ultimo release
